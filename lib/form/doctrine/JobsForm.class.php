@@ -1,0 +1,16 @@
+<?php
+
+/**
+ * Jobs form.
+ *
+ * @package    newproject
+ * @subpackage form
+ * @author     Alina Parascan
+ * @version    SVN: $Id: sfDoctrineFormTemplate.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
+ */
+class JobsForm extends BaseJobsForm
+{
+  public function configure()
+  {
+  }
+}
